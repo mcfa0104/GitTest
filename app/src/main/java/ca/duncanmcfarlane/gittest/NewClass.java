@@ -3,6 +3,9 @@ package ca.duncanmcfarlane.gittest;
 import java.util.ArrayList;
 
 public class NewClass {
+    /**
+     * This is an update
+     */
     private ArrayList<String> arrayList = new ArrayList<>();
 
     public NewClass(int intValue, String strValue) {
